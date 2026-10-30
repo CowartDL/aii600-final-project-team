@@ -9,7 +9,7 @@ Follow the [final project lab](https://vsokolov.org/labs/final-project-lab.html)
 Alone, or a group of at most three. One person forks. That person adds the other members and `VadimSokolov` as collaborators. On a repository owned by a personal account the role is Write. On the fork, write the names and GitHub usernames under this heading. One person speaks at the presentation. Every member can explain the whole repository.
 
 - David Cowart (`CowartDL`)
-- Bethel Teshome (`blue281948-hue`)
+- Bethel Teshome (`BethelT281948`)
 
 ## Fork
 
@@ -59,7 +59,7 @@ Leave the data files out of git. A file you are allowed to republish goes on the
 
 R or Python. Use the language you can explain. AI assistants are allowed. On your fork, add one line to this README: what you used, and for what. You are responsible for everything on `main`, including the parts you did not write.
 
-AI use: Claude Code (Anthropic) to review the requirements, plan the milestones, set up the fork, and draft the proposal and the first `decisions.md` entry, which we checked and edited.
+AI use: Claude Code (Anthropic) to review the requirements, plan the milestones, set up the fork, and review the proposal and the first `decisions.md` entry, which we further checked and edited.
 
 ## Files
 
