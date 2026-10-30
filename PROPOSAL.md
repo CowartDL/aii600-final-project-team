@@ -2,7 +2,7 @@
 
 ## Hypothesis
 
-Buying tomorrow's peak-hour energy at a quantile of a calibrated forecast distribution, instead of at a specific point forecast, lowers the expected cost of serving PJM load. The quantity is PJM's peak hourly demand on the next day, in MW, forecast on the morning of the day before, for each day of a projected later period.
+Buying tomorrow's peak-hour energy at a quantile of a calibrated forecast distribution, instead of at a specific point forecast, lowers the expected cost of serving PJM load. PJM is a major Regional Transmission Organization for the Mid-Atlantic region. The quantity is PJM's peak hourly demand on the next day, in MW, forecast on the morning of the day before, for each day of a projected later period.
 
 ## Data
 
