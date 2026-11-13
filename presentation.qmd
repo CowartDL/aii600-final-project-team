@@ -9,15 +9,16 @@ format:
     height: 720
 ---
 
-## Action
+Action = [
 
-1. To calculate how much electricity a service should buy based on the PJM region's peak demand for electricity tomorrow.
+"To calculate how much electricity a service should buy based on the PJM region's peak demand for electricity tomorrow.",
 
-2. In the day-ahead market by a load-serving must determine how many megawatts (MW) to purchase and the loss is a newsvendor cost.
+"In the day-ahead market by a load-serving must determine how many megawatts (MW) to purchase and the loss is a newsvendor cost.",
 
-3. Look for the purchasing the number base using the newsvendor decision procedure in order to find facts about the supply of power.
+"Look for the purchasing the number base using the newsvendor decision procedure in order to find facts about the supply of power.,
 
-4. Creating a forecasting model will help get a better understanding of what will happen to demand levels.
+"Creating a forecasting model will help get a better understanding of what will happen to demand levels."
+]
 
 ## Reason
 
