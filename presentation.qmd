@@ -9,16 +9,9 @@ format:
     height: 720
 ---
 
-Action = [
+## Action
 
-"To calculate how much electricity a service should buy based on the PJM region's peak demand for electricity tomorrow.",
-
-"In the day-ahead market by a load-serving must determine how many megawatts (MW) to purchase and the loss is a newsvendor cost.",
-
-"Look for the purchasing the number base using the newsvendor decision procedure in order to find facts about the supply of power.,
-
-"Creating a forecasting model will help get a better understanding of what will happen to demand levels."
-]
+What should be done. Replace this sentence.
 
 ## Reason
 
