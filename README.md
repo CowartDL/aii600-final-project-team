@@ -59,7 +59,7 @@ Leave the data files out of git. A file you are allowed to republish goes on the
 
 R or Python. Use the language you can explain. AI assistants are allowed. On your fork, add one line to this README: what you used, and for what. You are responsible for everything on `main`, including the parts you did not write.
 
-AI use: Claude Code (Anthropic) to review the requirements, plan the milestones, set up the fork, and create the rough run of the proposal and the first `decisions.md` entry. We refined and edited these files to align with our understanding and prepare for the project.
+AI use: Claude Code (Anthropic) to plan the project, set up the repository, and draft the proposal, the data download and cleaning code (`fetch_data.py`, `pjm.py`), the notebook's analysis cells, and the `decisions.md` entries. We reviewed, ran, and edited all of it, and can explain every part.
 
 ## Files
 
