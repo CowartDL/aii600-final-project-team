@@ -1,5 +1,10 @@
 ---
-title: "Project title"
+title: "Final Presentation- PJM Next-Day Peak Forecasting David Cowart
+Bethel Teshome
+AII 600-001
+George Mason University
+11/13/26"
+
 format:
   revealjs:
     embed-resources: true
@@ -10,17 +15,39 @@ format:
 ---
 
 ## Action
+Action = [
 
-What should be done. Replace this sentence.
+"To calculate how much electricity a service should buy based on the PJM region's peak demand for electricity tomorrow.",
+
+"In the day-ahead market by a load-serving must determine how many megawatts (MW) to purchase and the loss is a newsvendor cost.",
+
+"Look for the purchasing the number base using the newsvendor decision procedure in order to find facts about the supply of power.,
+
+"Creating a forecasting model will help get a better understanding of what will happen to demand levels."
+]
 
 ## Reason
 
 Why, in the decision maker's units. The held-out score in `analysis.ipynb` has to agree with this slide.
 
 ## Risk
+Risk = [
+"A 90% chance of needing a lower power supply and a 10% chance of under purchasing.",
 
-The main risk of the action: a probability or a cost, not the held-out score.
+"Having a forecasting model that provides a better understanding will help measure how demand levels will change.",
+
+"The Newsvendor Decision Rule tells the possibilities of demand more than the selected purchase order.", 
+
+"EIA-930 reports the hourly average.", 
+
+"Purchasing too little or too much can lead to future economic challenges."
+]
+
 
 ## Value
+Value = [
+"The value is that purchasing electricity can be done with greater skill by using only on the one estimated need value.",
 
-What it is worth to be less wrong, in the units of the loss.
+"The News vendor Decision Rule and a forecast supply are used to find the useful purchasing amount."
+]
+
